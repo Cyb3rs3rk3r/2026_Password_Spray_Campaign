@@ -1,0 +1,12 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+~$*
+
+# Working / unsanitized material — never commit
+/internal/
+/private/
+*-internal.*
+*-unsanitized.*
+*.ja4
